@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +25,3 @@ Things you may want to cover:
 =======
 # blog-rails
 Blog in ruby on rails
->>>>>>> 5166f90c26f7aa30d3cafa522b4eca0f71c26e68
